@@ -1,0 +1,14 @@
+com/property/management/response/UserPropertySearchResponse.class
+com/property/management/model/Property.class
+com/property/management/enums/ListingType.class
+com/property/management/response/UserPropertyListResponse.class
+com/property/management/resources/UserResource.class
+com/property/management/enums/PropertyStatus.class
+com/property/management/service/impl/UserServiceImpl.class
+com/property/management/config/UserConfiguration.class
+com/property/management/model/Address.class
+com/property/management/enums/RoomType.class
+com/property/management/model/User.class
+com/property/management/service/UserService.class
+com/property/management/dao/UserDao.class
+com/property/management/model/Price.class

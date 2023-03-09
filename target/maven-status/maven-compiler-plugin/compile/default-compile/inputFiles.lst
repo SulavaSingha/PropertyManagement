@@ -1,0 +1,14 @@
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/config/UserConfiguration.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/dao/UserDao.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/enums/ListingType.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/model/User.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/model/Address.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/response/UserPropertyListResponse.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/response/UserPropertySearchResponse.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/model/Property.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/model/Price.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/enums/RoomType.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/enums/PropertyStatus.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/service/impl/UserServiceImpl.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/resources/UserResource.java
+/Users/sulavarahul/repos/PropertyManagementSystem/src/main/java/com/property/management/service/UserService.java
